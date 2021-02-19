@@ -2,7 +2,7 @@
 
 Animacion año nuevo con svg y css....
 
-![Alt text](https://res.cloudinary.com/dqhme1rod/image/upload/v1613750820/machine/haymnaokalhkcxtqkqnf.gif)
+[![Demo](https://res.cloudinary.com/dqhme1rod/image/upload/v1613751926/machine/txba8odqgnlt25zmuaxw.png)](https://res.cloudinary.com/dqhme1rod/video/upload/v1613751857/machine/y7mdjikjwq60bggpn71p.mp4)
 
 # Tecnologías
 
